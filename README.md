@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Sanskar+Kalal+👋;Full+Stack+%26+Mobile+App+Developer;100K%2B+Content+Creator+%7C+Open+Source+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Sanskar+Kalal+👋;Full+Stack+%26+Mobile+App+Developer;100K%2B+Content+Creator+%7C+AI+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
 </p>
 
 
@@ -38,7 +38,7 @@ When I’m not coding, I create engaging content for 100K+ followers across Inst
 ## 🧠 Currently Learning
 - ⚛️ ReactJS & Tailwind CSS for building elegant UIs  
 - 🖥️ ExpressJS & MongoDB for backend APIs (MERN Stack)  
-- 🐧 Linux Kernel & Device Driver Development for low-level system programming  
+- 🤖 Advanced Machine Learning (PyTorch, TensorFlow)  
 
 
 
@@ -52,8 +52,8 @@ When I’m not coding, I create engaging content for 100K+ followers across Inst
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" alt="Express"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" alt="MongoDB"></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" alt="Flutter"></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" alt="PyTorch"></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" alt="TensorFlow"></a>
 <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux"></a>
 </p>
 
