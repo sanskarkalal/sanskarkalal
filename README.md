@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Sanskar+Kalal+👋;Full+Stack+%26+Mobile+App+Developer;100K%2B+Content+Creator+%7C+Open+Source+Enthusiast;Let%E2%80%99s+build+something+amazing+together!">
 </p>
 
-# Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving" style="height: 30px; vertical-align: middle;"> My name is Sanskar Kalal <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsa25xNGZwMDVvZ2xrZDBsOGJ6Z24xN2hnMmxmMzVpZmF6bXoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" alt="Smiling" style="height: 30px; vertical-align: middle;">
 
 **`Software Engineering Student @ UIC | Full Stack & Mobile Developer | Content Creator (100K+ followers)`**
 
