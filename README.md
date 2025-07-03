@@ -1,36 +1,36 @@
 # Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving" style="height: 30px; vertical-align: middle;"> My name is Sanskar Kalal <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsa25xNGZwMDVvZ2xrZDBsOGJ6Z24xN2hnMmxmMzVpZmF6bXoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9RbxjZ8QXesiYoerE/giphy.gif" alt="Smiling" style="height: 30px; vertical-align: middle;">
 
-**`Software Engineering Student @ UIC | Full Stack & Mobile App Developer | Content Creator (100K+ cumulative followers)`**
+**`Software Engineering Student @ UIC | Full Stack & Mobile Developer | Content Creator (100K+ followers)`**
 
 
 
-Welcome to my GitHub — the place where I craft, debug, and deploy my ideas 🚀.  
-I’m currently a **Software Development Intern** in Chicago and building awesome mobile and web applications.  
-Beyond coding, I create engaging content for a cumulative audience of **100K+ followers** across Instagram.  
+Welcome to my GitHub — the place where I design, debug, and deploy ideas 🚀.  
+I’m currently a **Mobile App Development Intern** at Ampcus Tech Pvt. Ltd., where I’m building cross-platform solutions using React Native, Firebase, and Redux.  
+
+When I’m not coding, I create engaging content for a cumulative audience of **100K+ followers** across Instagram and YouTube, collaborating with brands like **Spotify** and **Premier League**.  
 
 
 
 ## ✨ Projects I’m working on
-- ✂️ [Haircut Queue App](https://github.com/sanskardotexe/haircut-queue-app) – Real-time queue management using Flutter & Firebase  
-- 🎵 [MusicCentral & MusicClient](https://github.com/sanskardotexe/music-app) – Android app with AIDL-bound service for music playback  
-- 📱 [Leaf](https://github.com/sanskardotexe/leaf-app) – Financial literacy platform for empowering women  
-- 🌱 Exploring React + MERN stack for scalable web apps  
+- ✂️ **Haircut Queue App** – A React Native + Firebase prototype for real-time queue management, scaling to 5+ locations.  
+- 📱 **Leaf – Financial Literacy App** – Architected a secure Cloud Firestore backend and implemented role-based access controls for user data.  
+- 🎮 **Three-Card Poker** – Multiplayer JavaFX poker client communicating with a multithreaded Java server (supports 20+ concurrent players).  
 
 
 
 ## 🌍 Location & Contact
 📍 **Based in**: Chicago, Illinois  
-✉️ **Email**: [sanskarkalal@gmail.com](mailto:sanskarkalal@gmail.com)  
-🔗 **LinkedIn**: [sanskarkalal](https://www.linkedin.com/in/sanskarkalal)  
+✉️ **Email**: [sanskarkalal02@gmail.com](mailto:sanskarkalal02@gmail.com)  
+🔗 **LinkedIn**: [Sanskar Kalal](https://www.linkedin.com/in/sanskar-kalal-821308232/)  
 📸 **Instagram**: [@sanskardotexe](https://instagram.com/sanskardotexe) | [@sanskarrdetox](https://instagram.com/sanskarrdetox)  
 🌐 **Portfolio**: *(coming soon)*  
 
 
 
 ## 🧠 Currently Learning
-- ⚛️ ReactJS & Tailwind CSS for building responsive UIs  
-- 🖥️ ExpressJS & MongoDB for backend APIs (MERN Stack)  
-- 🐧 Linux Kernel & Device Driver Development  
+- ⚛️ ReactJS & Tailwind CSS for crafting modern, responsive UIs  
+- 🖥️ ExpressJS & MongoDB for scalable backend APIs (MERN Stack)  
+- 🐧 Linux Kernel & Device Driver Development for low-level system programming  
 
 
 
@@ -44,6 +44,7 @@ Beyond coding, I create engaging content for a cumulative audience of **100K+ fo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
