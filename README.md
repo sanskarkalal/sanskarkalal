@@ -30,7 +30,7 @@ When I’m not coding, I create engaging content for 100K+ followers across Inst
 📍 **Based in**: Chicago, Illinois  
 ✉️ **Email**: [sanskarkalal02@gmail.com](mailto:sanskarkalal02@gmail.com)  
 🔗 **LinkedIn**: [Sanskar Kalal](https://www.linkedin.com/in/sanskar-kalal-821308232/)  
-📸 **Instagram**: [@sanskardotexe](https://instagram.com/sanskardotexe) | [@sanskarrdetox](https://instagram.com/sanskarrdetox)  
+📸 **Instagram**: [@sanskardotexe](https://instagram.com/sanskardotexe) | [@sanskarrdetox](https://instagram.com/sanskarrdetox) | [@sanskar.cs](https://instagram.com/sanskar.cs) 
 🌐 **Portfolio**: *(coming soon)*  
 
 
