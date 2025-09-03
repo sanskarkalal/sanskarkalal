@@ -20,7 +20,7 @@ When I’m not coding, I create engaging content for 100K+ followers across Inst
 
 
 ## ✨ Featured Projects
-- ✂️ **Haircut Queue App** – Real-time queue management app (React Native + Firebase)  
+- ✂️ **Haircut Queue Site** – Real-time queue management app (React.js + Postgres)  
 - 📱 **Leaf – Financial Literacy App** – Backend lead architecting secure Cloud Firestore systems with custom token authentication.  
 - 🎮 **Three-Card Poker** – JavaFX multiplayer poker client communicating with a multithreaded Java server (20+ concurrent players).  
 
